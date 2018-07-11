@@ -1,0 +1,7 @@
+F:\Job\GP\GmailParserTwo v13.5\GmailParserViewProgram\obj\Release\GmailParserViewProgram.csprojResolveAssemblyReference.cache
+F:\Job\GP\GmailParserTwo v13.5\GmailParserViewProgram\obj\Release\GmailParserViewProgram.FormMailTrigger.resources
+F:\Job\GP\GmailParserTwo v13.5\GmailParserViewProgram\obj\Release\GmailParserViewProgram.FormDownload.resources
+F:\Job\GP\GmailParserTwo v13.5\GmailParserViewProgram\obj\Release\GmailParserViewProgram.FormMailTriggerLogic.resources
+F:\Job\GP\GmailParserTwo v13.5\GmailParserViewProgram\obj\Release\GmailParserViewProgram.Properties.Resources.resources
+F:\Job\GP\GmailParserTwo v13.5\GmailParserViewProgram\obj\Release\GmailParserViewProgram.csproj.GenerateResource.Cache
+F:\Job\GP\GmailParserTwo v13.5\GmailParserViewProgram\obj\Release\GmailParserViewProgram.csproj.CoreCompileInputs.cache
